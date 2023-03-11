@@ -1,0 +1,51 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+  height: 80vh;
+}
+
+.mainC {
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.mainFun {
+  border: 2px solid;
+  height: 35px;
+  border-radius: 5px;
+  width: 450px;
+}
+.mainFun:hover{
+  border: 2px solid red;
+}
+
+.mainFun.funCvalid {
+  border-color: green;
+}
+
+.mainFun.funCinvalid {
+  border-color: red;
+}
+
+.errorInput {
+  color: red;
+  margin-top: 0.25rem;
+  font-size: 80%;
+}
+.btn {
+  align-items: center;
+  background-color: rgb(4, 104, 235);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 5px;
+  height: 40px;
+  width: 70px;
+}
+.btn:hover{
+ border: 2px solid red;
+}
+
