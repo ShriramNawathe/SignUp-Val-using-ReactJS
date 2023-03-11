@@ -1,3 +1,5 @@
+Deploy using netlify : https://640ce0bad8fc9d5f9528ce2d--relaxed-froyo-7033e7.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
